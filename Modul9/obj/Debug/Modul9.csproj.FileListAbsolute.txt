@@ -1,0 +1,10 @@
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\bin\Debug\Modul9.exe.config
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\bin\Debug\Modul9.exe
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\bin\Debug\Modul9.pdb
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\obj\Debug\Modul9.csproj.AssemblyReference.cache
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\obj\Debug\Modul9.Form1.resources
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\obj\Debug\Modul9.Properties.Resources.resources
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\obj\Debug\Modul9.csproj.GenerateResource.cache
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\obj\Debug\Modul9.csproj.CoreCompileInputs.cache
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\obj\Debug\Modul9.exe
+C:\Users\Reihan Athar\source\repos\Modul9\Modul9\obj\Debug\Modul9.pdb
